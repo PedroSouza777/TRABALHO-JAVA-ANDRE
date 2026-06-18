@@ -47,4 +47,3 @@ public class Plano extends EntidadeBase {
     @Override
     public String resumo() {
         return "#" + getId() + " Plano: " + getNome() + " | R$ " + String.format("%.2f", precoMensal);
-    }
