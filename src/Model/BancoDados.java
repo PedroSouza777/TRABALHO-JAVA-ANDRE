@@ -69,7 +69,6 @@ private static void criarDiretorio() {
         System.out.println("Nao foi possivel criar pasta de dados: " + erro.getMessage());
     }
 }
-
 public static void registrarLog(String mensagem) {
     criarDiretorio();
     String linha = LocalDateTime.now() + " - " + mensagem + System.lineSeparator();
