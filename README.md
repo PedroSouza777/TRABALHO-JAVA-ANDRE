@@ -6,4 +6,12 @@ O Sistema de Música é uma aplicação desenvolvida em Java utilizando os conce
 
 O projeto está sendo desenvolvido utilizando a arquitetura MVC (Model-View-Controller), promovendo uma melhor organização do código e separação de responsabilidades.
 
-O README será descrito completamente, após a finalização do projeto.
+Funções: 
+- Cadastro de Usuários;
+- Cadastro de Playlist;
+- Cadastro de Artistas;
+- Cadastro de Musicas;
+- Pagamentos;
+- Acesso a planos Free, Premium e Família;
+- Acesso ao Histórico;
+- Funções como cadastro, listagem, exclusão e alteração de Usuários, Playlists e Planos.
